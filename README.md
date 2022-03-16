@@ -1,4 +1,4 @@
-# Text-Editor
+# Text Editor
 
 This is alternative to default Notes app. You can add, edit and delete notes.
 
