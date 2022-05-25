@@ -2,6 +2,18 @@
 
 This is alternative to default Notes app. You can add, edit and delete notes.
 
+## Download & Run
+
+1. Clone this repository
+
+```bash
+git clone https://github.com/MrPaschenko/Text-Editor
+```
+
+2. Open Text Editor.xcodeproj in Xcode
+
+3. Select some iOS device and hit run button in Xcode
+
 ## Screenshots
 <img src="https://github.com/MrPaschenko/Text-Editor/blob/main/Screens/1.png" alt="1" width="200"/> <img src="https://github.com/MrPaschenko/Text-Editor/blob/main/Screens/2.png" alt="2" width="200"/>
 
